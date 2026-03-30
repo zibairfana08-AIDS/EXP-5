@@ -30,8 +30,16 @@ PROCEDURE:
 OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
+<img width="927" height="1280" alt="image" src="https://github.com/user-attachments/assets/6e88a2df-f23c-4a03-90dd-aa87fe8d6c50" />
+
 
 V-I & REGULATION CHARACTERISTICS:
+<img width="927" height="1280" alt="image" src="https://github.com/user-attachments/assets/70f0e49e-4da4-47e8-a821-9d66c57db804" />
+DIAGRAM:
+![WhatsApp Image 2026-03-30 at 3 37 04 PM](https://github.com/user-attachments/assets/cb2758f7-b64a-430f-858c-01b95bbbac85)
+![WhatsApp Image 2026-03-30 at 3 37 04 PM](https://github.com/user-attachments/assets/97fec65e-2034-4103-8613-d06e5c38d1b9)
+
+
 
 PRECAUTIONS:
 
